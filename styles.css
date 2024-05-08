@@ -1,0 +1,88 @@
+/* Global styles */
+body {
+   font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  header {
+    text-align: center;
+    background-color: #afafaf;
+    padding:20px 0;
+
+  }
+  
+  .title {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  /* Content styles */
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(86, 219, 109);
+  }
+  
+  .omelette img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 7px;
+    /* background-color: rgb(73, 202, 149); */
+    max-width: 800px;
+    
+  }
+  
+  .description {
+    margin-bottom: 20px;
+  }
+  
+  .section-title {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* .ingredients, .instructions, .preparation-time {
+    list-style-type: none; */
+  
+  
+  /* Nutrition section styles */
+  .nutrition {
+    margin-top: 30px;
+  }
+  
+  .nutrition-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .nutrition-table th, .nutrition-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  /* Footer styles */
+  .footer {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px 0;
+    margin-top: 30px;
+  }
+  
+  .attribution {
+    font-size: 11px;
+    color: #666;
+  }
+  
+  .attribution a {
+    color: #007bff;
+  }
+
+  
